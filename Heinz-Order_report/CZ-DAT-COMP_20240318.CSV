@@ -1,0 +1,845 @@
+﻿Dodavka; Platce; Nazev platce; Zuctovaci datum; Artikl; Nazev; Mnozstvi zaklad; Cena prodeje LM; Kurz prodeje LM/EUR; Cena nakup jedn EUR
+PDL23115107; K07222; Lidl Česká republika s.r.o.; 05.02.24; 4203110; Majonéza klasik 800ml B8; 1728; 106220,16; 25,005; 20,48
+PDL23115123; K06875; Velká Pecka s.r.o.; 05.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 24; 1512; 25,005; 17,76
+PDL23115123; K06875; Velká Pecka s.r.o.; 05.02.24; 4200020; Rajčatový kečup jemný 342g B10; 20; 620; 25,005; 10,2
+PDL23115123; K06875; Velká Pecka s.r.o.; 05.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 25,005; 18
+PDL23115123; K06875; Velká Pecka s.r.o.; 05.02.24; 4201000; Fazole 415g B24; 48; 1512; 25,005; 21,84
+PDL23115123; K06875; Velká Pecka s.r.o.; 05.02.24; 4202140; BBQ Omáčka classic 400ml B10; 20; 926; 25,005; 13,8
+PDL23115123; K06875; Velká Pecka s.r.o.; 05.02.24; 4202310; Worcesterová omáčka150ml B12; 24; 792; 25,005; 13,92
+PDL23115123; K06875; Velká Pecka s.r.o.; 05.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,005; 9,6
+PDL23115123; K06875; Velká Pecka s.r.o.; 05.02.24; 4202700; BBQ Omáčka TD 220ml B8; 16; 528; 25,005; 8,48
+PDL23115123; K06875; Velká Pecka s.r.o.; 05.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 25,005; 9,8
+PDL23115123; K06875; Velká Pecka s.r.o.; 05.02.24; 4202760; Aioli omáčka 220 ml B8; 8; 264; 25,005; 9,8
+PDL23115126; K02821; PENNY MARKET s.r.o.; 05.02.24; 4200030; Rajčatový kečup 450g B15; 2520; 68040; 25,005; 16,95
+PDL23115126; K02821; PENNY MARKET s.r.o.; 05.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 1260; 34020; 25,005; 18
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 48; 3024; 25,005; 17,76
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4200020; Rajčatový kečup jemný 342g B10; 30; 930; 25,005; 10,2
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 460; 25,005; 14,3
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 25,005; 18
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4201000; Fazole 415g B24; 168; 5292; 25,005; 21,84
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4201020; Fazole chilli 390g B12; 24; 804; 25,005; 12,12
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4201050; Fazole BBQ 390g B12; 36; 1206; 25,005; 12,48
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4202140; BBQ Omáčka classic 400ml B10; 30; 1389; 25,005; 13,8
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4202220; Sójová omáčka 150ml B12; 24; 792; 25,005; 13,68
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4202310; Worcesterová omáčka150ml B12; 48; 1584; 25,005; 13,92
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,005; 9,6
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 25,005; 9,6
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4202700; BBQ Omáčka TD 220ml B8; 24; 792; 25,005; 8,48
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 25,005; 9,8
+PDL23115127; K06875; Velká Pecka s.r.o.; 05.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 264; 25,005; 9,8
+PDL23115128; K02821; PENNY MARKET s.r.o.; 05.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 34020; 25,005; 16,95
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 80; 5040; 25,005; 17,76
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4200020; Rajčatový kečup jemný 342g B10; 80; 2480; 25,005; 10,2
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4200030; Rajčatový kečup 450g B15; 210; 7980; 25,005; 16,95
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 70; 3220; 25,005; 14,3
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 30; 1140; 25,005; 18
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4201000; Fazole 415g B24; 48; 1512; 25,005; 21,84
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 25,005; 12,12
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4202140; BBQ Omáčka classic 400ml B10; 30; 1389; 25,005; 13,8
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4202220; Sójová omáčka 150ml B12; 24; 792; 25,005; 13,68
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4202310; Worcesterová omáčka150ml B12; 60; 1980; 25,005; 13,92
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,005; 9,6
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4202600; Omáčka hranolky 400ml B10; 20; 926; 25,005; 9,6
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4202700; BBQ Omáčka TD 220ml B8; 32; 1056; 25,005; 8,48
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,005; 8,56
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4202740; American Burger Omáčka TD 220ml B8; 24; 792; 25,005; 9,8
+PDL23115129; K06875; Velká Pecka s.r.o.; 05.02.24; 4204050; Hořčice medová 220ml (240g) B8; 64; 2112; 25,005; 1,15
+PDL23115132; K02821; PENNY MARKET s.r.o.; 05.02.24; 4200030; Rajčatový kečup 450g B15; 3780; 102060; 25,005; 16,95
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 48; 3024; 25,005; 17,76
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4200020; Rajčatový kečup jemný 342g B10; 60; 1860; 25,005; 10,2
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4200030; Rajčatový kečup 450g B15; 105; 3990; 25,005; 16,95
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 60; 2760; 25,005; 14,3
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 25,005; 18
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4201000; Fazole 415g B24; 144; 4536; 25,005; 21,84
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4202140; BBQ Omáčka classic 400ml B10; 30; 1389; 25,005; 13,8
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4202220; Sójová omáčka 150ml B12; 24; 792; 25,005; 13,68
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4202310; Worcesterová omáčka150ml B12; 48; 1584; 25,005; 13,92
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,005; 9,6
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4202600; Omáčka hranolky 400ml B10; 20; 926; 25,005; 9,6
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4202700; BBQ Omáčka TD 220ml B8; 24; 792; 25,005; 8,48
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 16; 528; 25,005; 8,56
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4202740; American Burger Omáčka TD 220ml B8; 24; 792; 25,005; 9,8
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 264; 25,005; 9,8
+PDL23115136; K06875; Velká Pecka s.r.o.; 05.02.24; 4204050; Hořčice medová 220ml (240g) B8; 56; 1848; 25,005; 1,15
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 104; 6552; 25,005; 17,76
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4200020; Rajčatový kečup jemný 342g B10; 80; 2480; 25,005; 10,2
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4200030; Rajčatový kečup 450g B15; 255; 9690; 25,005; 16,95
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 110; 5060; 25,005; 14,3
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 30; 1140; 25,005; 18
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4201000; Fazole 415g B24; 144; 4536; 25,005; 21,84
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 25,005; 12,12
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4201050; Fazole BBQ 390g B12; 36; 1206; 25,005; 12,48
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4202140; BBQ Omáčka classic 400ml B10; 40; 1852; 25,005; 13,8
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4202220; Sójová omáčka 150ml B12; 24; 792; 25,005; 13,68
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4202310; Worcesterová omáčka150ml B12; 60; 1980; 25,005; 13,92
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4202510; Omáčka česneková 400ml B10; 20; 926; 25,005; 9,6
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4202600; Omáčka hranolky 400ml B10; 20; 926; 25,005; 9,6
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4202700; BBQ Omáčka TD 220ml B8; 24; 792; 25,005; 8,48
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,005; 8,56
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 25,005; 9,8
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4202760; Aioli omáčka 220 ml B8; 8; 264; 25,005; 9,8
+PDL23115137; K06875; Velká Pecka s.r.o.; 05.02.24; 4204050; Hořčice medová 220ml (240g) B8; 48; 1584; 25,005; 1,15
+PDL23115138; K00134; Albert Česká republika, s.r.o.; 05.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 38178; 25,005; 16,95
+PDL23115138; K00134; Albert Česká republika, s.r.o.; 05.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 340; 12920; 25,005; 14,3
+PDL23115138; K00134; Albert Česká republika, s.r.o.; 05.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 1260; 38178; 25,005; 18
+PDL23115138; K00134; Albert Česká republika, s.r.o.; 05.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 1920; 86400; 25,005; 22,08
+PDL23115138; K00134; Albert Česká republika, s.r.o.; 05.02.24; 4202220; Sójová omáčka 150ml B12; 348; 10996,8; 25,005; 13,68
+PDL23115167; K00589; BILLA, spol. s r. o.; 06.02.24; 4200210; Rajčatový kečup TD (10) 400ml; 6650; 222775; 24,925; 14,3
+PDL23115167; K00589; BILLA, spol. s r. o.; 06.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 3200; 182400,01; 24,925; 17,76
+PDL23115173; K07280; Košík.cz s.r.o.; 06.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 120; 9144; 24,925; 17,76
+PDL23115173; K07280; Košík.cz s.r.o.; 06.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 216; 10044; 24,925; 16,32
+PDL23115173; K07280; Košík.cz s.r.o.; 06.02.24; 4200020; Rajčatový kečup jemný 342g B10; 600; 17490; 24,925; 10,2
+PDL23115173; K07280; Košík.cz s.r.o.; 06.02.24; 4200030; Rajčatový kečup 450g B15; 600; 20874; 24,925; 16,95
+PDL23115173; K07280; Košík.cz s.r.o.; 06.02.24; 4200060; Rajčatový kečup ostrý 570g B12; 60; 2790; 24,925; 15,72
+PDL23115173; K07280; Košík.cz s.r.o.; 06.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 465; 24,925; 14,3
+PDL23115173; K07280; Košík.cz s.r.o.; 06.02.24; 4202150; BBQ Omáčka sladká 400ml B10; 30; 1566,9; 24,925; 14
+PDL23115173; K07280; Košík.cz s.r.o.; 06.02.24; 4202520; Omáčka Sweet Chilli 220ml B8; 32; 1009,92; 24,925; 8,72
+PDL23115177; K03543; Tesco Stores ČR a.s.; 06.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 1600; 69280; 24,925; 22,08
+PDL23115180; K03543; Tesco Stores ČR a.s.; 06.02.24; 4201000; Fazole 415g B24; 192; 4800; 24,925; 21,84
+PDL23115180; K03543; Tesco Stores ČR a.s.; 06.02.24; 4201020; Fazole chilli 390g B12; 48; 1200; 24,925; 12,12
+PDL23115180; K03543; Tesco Stores ČR a.s.; 06.02.24; 4202140; BBQ Omáčka classic 400ml B10; 80; 2672; 24,925; 13,8
+PDL23115180; K03543; Tesco Stores ČR a.s.; 06.02.24; 4202220; Sójová omáčka 150ml B12; 96; 2967,36; 24,925; 13,68
+PDL23115180; K03543; Tesco Stores ČR a.s.; 06.02.24; 4202310; Worcesterová omáčka150ml B12; 84; 2596,44; 24,925; 13,92
+PDL23115180; K03543; Tesco Stores ČR a.s.; 06.02.24; 4202510; Omáčka česneková 400ml B10; 80; 2672; 24,925; 9,6
+PDL23115180; K03543; Tesco Stores ČR a.s.; 06.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 96; 2678,4; 24,925; 8,56
+PDL23115183; K07680; Tesco Franchise Stores ČR s.r.o.; 06.02.24; 4200030; Rajčatový kečup 450g B15; 180; 5961,6; 24,925; 16,95
+PDL23115213; K06875; Velká Pecka s.r.o.; 07.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 8; 504; 24,98; 17,76
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 16; 1008; 24,98; 17,76
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4200020; Rajčatový kečup jemný 342g B10; 10; 310; 24,98; 10,2
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4200030; Rajčatový kečup 450g B15; 15; 570; 24,98; 16,95
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 460; 24,98; 14,3
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 24,98; 18
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4201000; Fazole 415g B24; 48; 1512; 24,98; 21,84
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 24,98; 12,12
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 24,98; 13,92
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 24,98; 9,6
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 24,98; 8,48
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 24,98; 8,56
+PDL23115233; K06875; Velká Pecka s.r.o.; 07.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 264; 24,98; 9,8
+PDL23115234; K07222; Lidl Česká republika s.r.o.; 07.02.24; 4203110; Majonéza klasik 800ml B8; 1728; 106220,16; 24,98; 20,48
+PDL23115236; K00134; Albert Česká republika, s.r.o.; 07.02.24; 4202310; Worcesterová omáčka150ml B12; 348; 10996,8; 24,98; 13,92
+PDL23115236; K00134; Albert Česká republika, s.r.o.; 07.02.24; 4202600; Omáčka hranolky 400ml B10; 380; 15960; 24,98; 9,6
+PDL23115236; K00134; Albert Česká republika, s.r.o.; 07.02.24; 4202750; Curry Mango omáčka 220ml B8; 128; 4147,2; 24,98; 9,8
+PDL23115237; K06875; Velká Pecka s.r.o.; 07.02.24; 4200020; Rajčatový kečup jemný 342g B10; 10; 310; 24,98; 10,2
+PDL23115237; K06875; Velká Pecka s.r.o.; 07.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 24,98; 18
+PDL23115237; K06875; Velká Pecka s.r.o.; 07.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 24,98; 13,8
+PDL23115237; K06875; Velká Pecka s.r.o.; 07.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 24,98; 13,92
+PDL23115237; K06875; Velká Pecka s.r.o.; 07.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 24,98; 8,48
+PDL23115237; K06875; Velká Pecka s.r.o.; 07.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 24,98; 8,56
+PDL23115237; K06875; Velká Pecka s.r.o.; 07.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 24,98; 9,8
+PDL23115238; K06875; Velká Pecka s.r.o.; 07.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 8; 504; 24,98; 17,76
+PDL23115238; K06875; Velká Pecka s.r.o.; 07.02.24; 4200020; Rajčatový kečup jemný 342g B10; 10; 310; 24,98; 10,2
+PDL23115238; K06875; Velká Pecka s.r.o.; 07.02.24; 4200030; Rajčatový kečup 450g B15; 30; 1140; 24,98; 16,95
+PDL23115238; K06875; Velká Pecka s.r.o.; 07.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 20; 920; 24,98; 14,3
+PDL23115238; K06875; Velká Pecka s.r.o.; 07.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 24,98; 18
+PDL23115238; K06875; Velká Pecka s.r.o.; 07.02.24; 4201050; Fazole BBQ 390g B12; 12; 402; 24,98; 12,48
+PDL23115238; K06875; Velká Pecka s.r.o.; 07.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 24,98; 13,92
+PDL23115238; K06875; Velká Pecka s.r.o.; 07.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 24,98; 9,6
+PDL23115238; K06875; Velká Pecka s.r.o.; 07.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 24,98; 8,48
+PDL23115238; K06875; Velká Pecka s.r.o.; 07.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 264; 24,98; 9,8
+PDL23115239; K06875; Velká Pecka s.r.o.; 07.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 32; 2016; 24,98; 17,76
+PDL23115239; K06875; Velká Pecka s.r.o.; 07.02.24; 4200020; Rajčatový kečup jemný 342g B10; 20; 620; 24,98; 10,2
+PDL23115239; K06875; Velká Pecka s.r.o.; 07.02.24; 4200030; Rajčatový kečup 450g B15; 30; 1140; 24,98; 16,95
+PDL23115239; K06875; Velká Pecka s.r.o.; 07.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 20; 920; 24,98; 14,3
+PDL23115239; K06875; Velká Pecka s.r.o.; 07.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 24,98; 18
+PDL23115239; K06875; Velká Pecka s.r.o.; 07.02.24; 4201000; Fazole 415g B24; 24; 756; 24,98; 21,84
+PDL23115239; K06875; Velká Pecka s.r.o.; 07.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 24,98; 13,92
+PDL23115239; K06875; Velká Pecka s.r.o.; 07.02.24; 4202700; BBQ Omáčka TD 220ml B8; 16; 528; 24,98; 8,48
+PDL23115239; K06875; Velká Pecka s.r.o.; 07.02.24; 4206010; Fazole 1kg B6; 12; 828; 24,98; 13,74
+PDL23115244; K03543; Tesco Stores ČR a.s.; 07.02.24; 4200210; Rajčatový kečup TD (10) 400ml; 190; 6042; 24,98; 14,3
+PDL23115246; K00589; BILLA, spol. s r. o.; 07.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 3696; 133092,96; 24,98; 16,32
+PDL23115246; K00589; BILLA, spol. s r. o.; 07.02.24; 4200030; Rajčatový kečup 450g B15; 3420; 106362; 24,98; 16,95
+PDL23115246; K00589; BILLA, spol. s r. o.; 07.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 690; 24846,9; 24,98; 14,3
+PDL23115246; K00589; BILLA, spol. s r. o.; 07.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 1665; 47069,55; 24,98; 18
+PDL23115246; K00589; BILLA, spol. s r. o.; 07.02.24; 4202220; Sójová omáčka 150ml B12; 288; 9429,12; 24,98; 13,68
+PDL23115246; K00589; BILLA, spol. s r. o.; 07.02.24; 4202700; BBQ Omáčka TD 220ml B8; 848; 25914,88; 24,98; 8,48
+PDL23115246; K00589; BILLA, spol. s r. o.; 07.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 1944; 59408,64; 24,98; 8,56
+PDL23115246; K00589; BILLA, spol. s r. o.; 07.02.24; 4202730; Česneková Omáčka TD 220ml B8; 2504; 76522,24; 24,98; 8,56
+PDL23115246; K00589; BILLA, spol. s r. o.; 07.02.24; 4202750; Curry Mango omáčka 220ml B8; 1240; 37894,4; 24,98; 9,8
+PDL23115287; K02302; Kaufland Česká republika v.o.s.; 08.02.24; 4202150; BBQ Omáčka sladká 400ml B10; 380; 14788,54; 24,955; 14
+PDL23115290; K07280; Košík.cz s.r.o.; 08.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 112; 8534,4; 24,955; 17,76
+PDL23115290; K07280; Košík.cz s.r.o.; 08.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 276; 12834; 24,955; 16,32
+PDL23115290; K07280; Košík.cz s.r.o.; 08.02.24; 4200020; Rajčatový kečup jemný 342g B10; 150; 4372,5; 24,955; 10,2
+PDL23115290; K07280; Košík.cz s.r.o.; 08.02.24; 4200030; Rajčatový kečup 450g B15; 105; 3652,95; 24,955; 16,95
+PDL23115290; K07280; Košík.cz s.r.o.; 08.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 50; 2325; 24,955; 14,3
+PDL23115290; K07280; Košík.cz s.r.o.; 08.02.24; 4201020; Fazole chilli 390g B12; 60; 1635,6; 24,955; 12,12
+PDL23115290; K07280; Košík.cz s.r.o.; 08.02.24; 4202750; Curry Mango omáčka 220ml B8; 32; 949,44; 24,955; 9,8
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 16; 1008; 24,955; 17,76
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4200020; Rajčatový kečup jemný 342g B10; 10; 310; 24,955; 10,2
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4200030; Rajčatový kečup 450g B15; 45; 1710; 24,955; 16,95
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 30; 1380; 24,955; 14,3
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4201000; Fazole 415g B24; 72; 2268; 24,955; 21,84
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 24,955; 13,8
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 24,955; 13,68
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4202310; Worcesterová omáčka150ml B12; 24; 792; 24,955; 13,92
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 24,955; 9,6
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 24,955; 9,6
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4202700; BBQ Omáčka TD 220ml B8; 16; 528; 24,955; 8,48
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 24,955; 8,56
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 24,955; 9,8
+PDL23115300; K06875; Velká Pecka s.r.o.; 08.02.24; 4204050; Hořčice medová 220ml (240g) B8; 8; 264; 24,955; 1,15
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 40; 2520; 24,955; 17,76
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4200020; Rajčatový kečup jemný 342g B10; 50; 1550; 24,955; 10,2
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4200030; Rajčatový kečup 450g B15; 135; 5130; 24,955; 16,95
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 40; 1840; 24,955; 14,3
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 24,955; 18
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4201000; Fazole 415g B24; 96; 3024; 24,955; 21,84
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4202140; BBQ Omáčka classic 400ml B10; 30; 1389; 24,955; 13,8
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 24,955; 13,68
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4202310; Worcesterová omáčka150ml B12; 24; 792; 24,955; 13,92
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4202700; BBQ Omáčka TD 220ml B8; 16; 528; 24,955; 8,48
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 24,955; 8,56
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 264; 24,955; 9,8
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4204050; Hořčice medová 220ml (240g) B8; 16; 528; 24,955; 1,15
+PDL23115301; K06875; Velká Pecka s.r.o.; 08.02.24; 4206010; Fazole 1kg B6; 12; 828; 24,955; 13,74
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 24; 1512; 24,955; 17,76
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4200020; Rajčatový kečup jemný 342g B10; 30; 930; 24,955; 10,2
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4200030; Rajčatový kečup 450g B15; 75; 2850; 24,955; 16,95
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 30; 1380; 24,955; 14,3
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 24,955; 18
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 24,955; 12,12
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4201050; Fazole BBQ 390g B12; 12; 402; 24,955; 12,48
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4202140; BBQ Omáčka classic 400ml B10; 20; 926; 24,955; 13,8
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 24,955; 13,68
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4202310; Worcesterová omáčka150ml B12; 24; 792; 24,955; 13,92
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 24,955; 9,6
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 24,955; 9,6
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4202700; BBQ Omáčka TD 220ml B8; 16; 528; 24,955; 8,48
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 24,955; 8,56
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 24,955; 9,8
+PDL23115302; K06875; Velká Pecka s.r.o.; 08.02.24; 4204050; Hořčice medová 220ml (240g) B8; 8; 264; 24,955; 1,15
+PDL23115303; K06875; Velká Pecka s.r.o.; 08.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 8; 504; 24,955; 17,76
+PDL23115303; K06875; Velká Pecka s.r.o.; 08.02.24; 4200020; Rajčatový kečup jemný 342g B10; 10; 310; 24,955; 10,2
+PDL23115303; K06875; Velká Pecka s.r.o.; 08.02.24; 4200030; Rajčatový kečup 450g B15; 15; 570; 24,955; 16,95
+PDL23115303; K06875; Velká Pecka s.r.o.; 08.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 460; 24,955; 14,3
+PDL23115303; K06875; Velká Pecka s.r.o.; 08.02.24; 4201000; Fazole 415g B24; 48; 1512; 24,955; 21,84
+PDL23115303; K06875; Velká Pecka s.r.o.; 08.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 24,955; 12,12
+PDL23115303; K06875; Velká Pecka s.r.o.; 08.02.24; 4202140; BBQ Omáčka classic 400ml B10; 20; 926; 24,955; 13,8
+PDL23115303; K06875; Velká Pecka s.r.o.; 08.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 24,955; 13,92
+PDL23115303; K06875; Velká Pecka s.r.o.; 08.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 24,955; 8,48
+PDL23115303; K06875; Velká Pecka s.r.o.; 08.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 24,955; 9,8
+PDL23115303; K06875; Velká Pecka s.r.o.; 08.02.24; 4206010; Fazole 1kg B6; 6; 414; 24,955; 13,74
+PDL23115304; K06875; Velká Pecka s.r.o.; 08.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 24; 1512; 24,955; 17,76
+PDL23115304; K06875; Velká Pecka s.r.o.; 08.02.24; 4200020; Rajčatový kečup jemný 342g B10; 20; 620; 24,955; 10,2
+PDL23115304; K06875; Velká Pecka s.r.o.; 08.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 20; 920; 24,955; 14,3
+PDL23115304; K06875; Velká Pecka s.r.o.; 08.02.24; 4201000; Fazole 415g B24; 24; 756; 24,955; 21,84
+PDL23115304; K06875; Velká Pecka s.r.o.; 08.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 24,955; 13,92
+PDL23115304; K06875; Velká Pecka s.r.o.; 08.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 24,955; 9,6
+PDL23115304; K06875; Velká Pecka s.r.o.; 08.02.24; 4202700; BBQ Omáčka TD 220ml B8; 24; 792; 24,955; 8,48
+PDL23115304; K06875; Velká Pecka s.r.o.; 08.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 24,955; 9,8
+PDL23115304; K06875; Velká Pecka s.r.o.; 08.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 264; 24,955; 9,8
+PDL23115304; K06875; Velká Pecka s.r.o.; 08.02.24; 4204050; Hořčice medová 220ml (240g) B8; 16; 528; 24,955; 1,15
+PDL23115355; K07222; Lidl Česká republika s.r.o.; 09.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 7040; 335948,8; 25,175; 17,76
+PDL23115356; K03543; Tesco Stores ČR a.s.; 09.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 1224; 45288; 25,175; 16,32
+PDL23115356; K03543; Tesco Stores ČR a.s.; 09.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 630; 18081; 25,175; 18
+PDL23115357; K00134; Albert Česká republika, s.r.o.; 09.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 1224; 46512; 25,175; 16,32
+PDL23115360; K03543; Tesco Stores ČR a.s.; 09.02.24; 4201050; Fazole BBQ 390g B12; 720; 18000; 25,175; 12,48
+PDL23115361; K03543; Tesco Stores ČR a.s.; 09.02.24; 4201000; Fazole 415g B24; 384; 9600; 25,175; 21,84
+PDL23115361; K03543; Tesco Stores ČR a.s.; 09.02.24; 4201010; Fazole bez cukru 415g B24; 312; 7800; 25,175; 24,96
+PDL23115361; K03543; Tesco Stores ČR a.s.; 09.02.24; 4201020; Fazole chilli 390g B12; 180; 4500; 25,175; 12,12
+PDL23115361; K03543; Tesco Stores ČR a.s.; 09.02.24; 4202140; BBQ Omáčka classic 400ml B10; 30; 1002; 25,175; 13,8
+PDL23115361; K03543; Tesco Stores ČR a.s.; 09.02.24; 4202220; Sójová omáčka 150ml B12; 84; 2596,44; 25,175; 13,68
+PDL23115361; K03543; Tesco Stores ČR a.s.; 09.02.24; 4202310; Worcesterová omáčka150ml B12; 84; 2596,44; 25,175; 13,92
+PDL23115361; K03543; Tesco Stores ČR a.s.; 09.02.24; 4202510; Omáčka česneková 400ml B10; 90; 3006; 25,175; 9,6
+PDL23115361; K03543; Tesco Stores ČR a.s.; 09.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 48; 1339,2; 25,175; 8,56
+PDL23115364; K07222; Lidl Česká republika s.r.o.; 09.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 3840; 183244,8; 25,175; 17,76
+PDL23115365; K00134; Albert Česká republika, s.r.o.; 09.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 38178; 25,175; 16,95
+PDL23115365; K00134; Albert Česká republika, s.r.o.; 09.02.24; 4201020; Fazole chilli 390g B12; 360; 9936; 25,175; 12,12
+PDL23115380; K02302; Kaufland Česká republika v.o.s.; 09.02.24; 4202140; BBQ Omáčka classic 400ml B10; 570; 22182,8; 25,175; 13,8
+PDL23115380; K02302; Kaufland Česká republika v.o.s.; 09.02.24; 4202700; BBQ Omáčka TD 220ml B8; 288; 7244,29; 25,175; 8,48
+PDL23115385; K07222; Lidl Česká republika s.r.o.; 12.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 6400; 305408; 25,215; 17,76
+PDL23115401; K06875; Velká Pecka s.r.o.; 12.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 8; 504; 25,215; 17,76
+PDL23115401; K06875; Velká Pecka s.r.o.; 12.02.24; 4200030; Rajčatový kečup 450g B15; 30; 1140; 25,215; 16,95
+PDL23115401; K06875; Velká Pecka s.r.o.; 12.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 25,215; 18
+PDL23115401; K06875; Velká Pecka s.r.o.; 12.02.24; 4201000; Fazole 415g B24; 48; 1512; 25,215; 21,84
+PDL23115401; K06875; Velká Pecka s.r.o.; 12.02.24; 4201010; Fazole bez cukru 415g B24; 24; 756; 25,215; 24,96
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 16; 1008; 25,215; 17,76
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4200020; Rajčatový kečup jemný 342g B10; 20; 620; 25,215; 10,2
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 460; 25,215; 14,3
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4201000; Fazole 415g B24; 24; 756; 25,215; 21,84
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4201010; Fazole bez cukru 415g B24; 48; 1512; 25,215; 24,96
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 25,215; 13,8
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 25,215; 13,92
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 25,215; 9,6
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4202700; BBQ Omáčka TD 220ml B8; 16; 528; 25,215; 8,48
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4202740; American Burger Omáčka TD 220ml B8; 16; 528; 25,215; 9,8
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 264; 25,215; 9,8
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4202760; Aioli omáčka 220 ml B8; 8; 264; 25,215; 9,8
+PDL23115402; K06875; Velká Pecka s.r.o.; 12.02.24; 4204050; Hořčice medová 220ml (240g) B8; 40; 1320; 25,215; 1,15
+PDL23115409; K07222; Lidl Česká republika s.r.o.; 12.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 4480; 213785,6; 25,215; 17,76
+PDL23115411; K02821; PENNY MARKET s.r.o.; 12.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 1260; 34020; 25,215; 18
+PDL23115413; K02821; PENNY MARKET s.r.o.; 12.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 1260; 34020; 25,215; 18
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 16; 1008; 25,215; 17,76
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4200020; Rajčatový kečup jemný 342g B10; 10; 310; 25,215; 10,2
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4200030; Rajčatový kečup 450g B15; 75; 2850; 25,215; 16,95
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 20; 920; 25,215; 14,3
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 25,215; 18
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4201000; Fazole 415g B24; 48; 1512; 25,215; 21,84
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4201010; Fazole bez cukru 415g B24; 48; 1512; 25,215; 24,96
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4201050; Fazole BBQ 390g B12; 12; 402; 25,215; 12,48
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 25,215; 13,8
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4202310; Worcesterová omáčka150ml B12; 24; 792; 25,215; 13,92
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 25,215; 9,6
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4202700; BBQ Omáčka TD 220ml B8; 16; 528; 25,215; 8,48
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 264; 25,215; 9,8
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4204050; Hořčice medová 220ml (240g) B8; 40; 1320; 25,215; 1,15
+PDL23115418; K06875; Velká Pecka s.r.o.; 12.02.24; 4206010; Fazole 1kg B6; 6; 414; 25,215; 13,74
+PDL23115419; K07222; Lidl Česká republika s.r.o.; 12.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 3200; 152704; 25,215; 17,76
+PDL23115422; K00134; Albert Česká republika, s.r.o.; 12.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 640; 37760; 25,215; 17,76
+PDL23115422; K00134; Albert Česká republika, s.r.o.; 12.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 170; 6460; 25,215; 14,3
+PDL23115422; K00134; Albert Česká republika, s.r.o.; 12.02.24; 4202220; Sójová omáčka 150ml B12; 348; 10996,8; 25,215; 13,68
+PDL23115422; K00134; Albert Česká republika, s.r.o.; 12.02.24; 4202750; Curry Mango omáčka 220ml B8; 128; 4147,2; 25,215; 9,8
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4200020; Rajčatový kečup jemný 342g B10; 20; 620; 25,215; 10,2
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4200030; Rajčatový kečup 450g B15; 75; 2850; 25,215; 16,95
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 40; 1840; 25,215; 14,3
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 25,215; 18
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4201000; Fazole 415g B24; 72; 2268; 25,215; 21,84
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4201010; Fazole bez cukru 415g B24; 96; 3024; 25,215; 24,96
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4202140; BBQ Omáčka classic 400ml B10; 20; 926; 25,215; 13,8
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 25,215; 13,68
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4202310; Worcesterová omáčka150ml B12; 36; 1188; 25,215; 13,92
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 25,215; 9,6
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4202700; BBQ Omáčka TD 220ml B8; 16; 528; 25,215; 8,48
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4202760; Aioli omáčka 220 ml B8; 8; 264; 25,215; 9,8
+PDL23115424; K06875; Velká Pecka s.r.o.; 12.02.24; 4204050; Hořčice medová 220ml (240g) B8; 40; 1320; 25,215; 1,15
+PDL23115425; K06875; Velká Pecka s.r.o.; 12.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 32; 2016; 25,215; 17,76
+PDL23115425; K06875; Velká Pecka s.r.o.; 12.02.24; 4200020; Rajčatový kečup jemný 342g B10; 20; 620; 25,215; 10,2
+PDL23115425; K06875; Velká Pecka s.r.o.; 12.02.24; 4200030; Rajčatový kečup 450g B15; 60; 2280; 25,215; 16,95
+PDL23115425; K06875; Velká Pecka s.r.o.; 12.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 30; 1380; 25,215; 14,3
+PDL23115425; K06875; Velká Pecka s.r.o.; 12.02.24; 4201010; Fazole bez cukru 415g B24; 72; 2268; 25,215; 24,96
+PDL23115425; K06875; Velká Pecka s.r.o.; 12.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 25,215; 13,8
+PDL23115425; K06875; Velká Pecka s.r.o.; 12.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 25,215; 13,92
+PDL23115425; K06875; Velká Pecka s.r.o.; 12.02.24; 4202600; Omáčka hranolky 400ml B10; 20; 926; 25,215; 9,6
+PDL23115425; K06875; Velká Pecka s.r.o.; 12.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 25,215; 8,48
+PDL23115425; K06875; Velká Pecka s.r.o.; 12.02.24; 4202760; Aioli omáčka 220 ml B8; 8; 264; 25,215; 9,8
+PDL23115425; K06875; Velká Pecka s.r.o.; 12.02.24; 4204050; Hořčice medová 220ml (240g) B8; 48; 1584; 25,215; 1,15
+PDL23115431; K01089; Globus ČR, v.o.s.; 05.02.24; 4202190; Omáčka Burger 400ml B10; 190; 7928,7; 25,005; 11,5
+PDL23115431; K01089; Globus ČR, v.o.s.; 05.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 320; 16960; 25,005; 22,08
+PDL23115461; K03543; Tesco Stores ČR a.s.; 13.02.24; 4209680; Heinz Stojan - Tesco 2024; 37; 176605,44; 25,28; 244,338
+PDL23115463; K03543; Tesco Stores ČR a.s.; 13.02.24; 4201000; Fazole 415g B24; 96; 2400; 25,28; 21,84
+PDL23115463; K03543; Tesco Stores ČR a.s.; 13.02.24; 4201010; Fazole bez cukru 415g B24; 48; 1200; 25,28; 24,96
+PDL23115463; K03543; Tesco Stores ČR a.s.; 13.02.24; 4201020; Fazole chilli 390g B12; 60; 1500; 25,28; 12,12
+PDL23115463; K03543; Tesco Stores ČR a.s.; 13.02.24; 4202140; BBQ Omáčka classic 400ml B10; 70; 2338; 25,28; 13,8
+PDL23115463; K03543; Tesco Stores ČR a.s.; 13.02.24; 4202220; Sójová omáčka 150ml B12; 36; 1112,76; 25,28; 13,68
+PDL23115463; K03543; Tesco Stores ČR a.s.; 13.02.24; 4202310; Worcesterová omáčka150ml B12; 84; 2596,44; 25,28; 13,92
+PDL23115463; K03543; Tesco Stores ČR a.s.; 13.02.24; 4202510; Omáčka česneková 400ml B10; 130; 4342; 25,28; 9,6
+PDL23115463; K03543; Tesco Stores ČR a.s.; 13.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 96; 2678,4; 25,28; 8,56
+PDL23115465; K07680; Tesco Franchise Stores ČR s.r.o.; 13.02.24; 4201000; Fazole 415g B24; 192; 4800; 25,28; 21,84
+PDL23115467; K07280; Košík.cz s.r.o.; 13.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 112; 8534,4; 25,28; 17,76
+PDL23115467; K07280; Košík.cz s.r.o.; 13.02.24; 4200060; Rajčatový kečup ostrý 570g B12; 12; 558; 25,28; 15,72
+PDL23115467; K07280; Košík.cz s.r.o.; 13.02.24; 4201000; Fazole 415g B24; 432; 11776,32; 25,28; 21,84
+PDL23115467; K07280; Košík.cz s.r.o.; 13.02.24; 4201010; Fazole bez cukru 415g B24; 24; 654,24; 25,28; 24,96
+PDL23115467; K07280; Košík.cz s.r.o.; 13.02.24; 4202310; Worcesterová omáčka150ml B12; 24; 765,12; 25,28; 13,92
+PDL23115467; K07280; Košík.cz s.r.o.; 13.02.24; 4202750; Curry Mango omáčka 220ml B8; 16; 474,72; 25,28; 9,8
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4202190; Omáčka Burger 400ml B10; 190; 7928,7; 25,28; 11,5
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4200210; Rajčatový kečup TD (10) 400ml; 190; 7014,8; 25,28; 14,3
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4200210; Rajčatový kečup TD (10) 400ml; -190; 7014,8; 25,28; 14,3
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 160; 8480; 25,28; 22,08
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4201000; Fazole 415g B24; 864; 27112,32; 25,28; 21,84
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4201010; Fazole bez cukru 415g B24; 768; 24099,84; 25,28; 24,96
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4201020; Fazole chilli 390g B12; 408; 12803,04; 25,28; 12,12
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4201050; Fazole BBQ 390g B12; 864; 27112,32; 25,28; 12,48
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4202140; BBQ Omáčka classic 400ml B10; 190; 7928,7; 25,28; 13,8
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4202220; Sójová omáčka 150ml B12; 348; 10794,96; 25,28; 13,68
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4202310; Worcesterová omáčka150ml B12; 348; 10794,96; 25,28; 13,92
+PDL23115468; K01089; Globus ČR, v.o.s.; 13.02.24; 4206010; Fazole 1kg B6; 72; 4978,08; 25,28; 13,74
+PDL23115475; K02821; PENNY MARKET s.r.o.; 14.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 34020; 25,35; 16,95
+PDL23115513; K02821; PENNY MARKET s.r.o.; 14.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 34020; 25,35; 16,95
+PDL23115514; K02821; PENNY MARKET s.r.o.; 14.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 34020; 25,35; 16,95
+PDL23115518; K03543; Tesco Stores ČR a.s.; 14.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 1224; 45288; 25,35; 16,32
+PDL23115518; K03543; Tesco Stores ČR a.s.; 14.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 160; 6928; 25,35; 22,08
+PDL23115519; K00134; Albert Česká republika, s.r.o.; 14.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 1224; 46512; 25,35; 16,32
+PDL23115519; K00134; Albert Česká republika, s.r.o.; 14.02.24; 4200030; Rajčatový kečup 450g B15; 2520; 76356; 25,35; 16,95
+PDL23115519; K00134; Albert Česká republika, s.r.o.; 14.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 420; 12726; 25,35; 18
+PDL23115519; K00134; Albert Česká republika, s.r.o.; 14.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 960; 43200; 25,35; 22,08
+PDL23115519; K00134; Albert Česká republika, s.r.o.; 14.02.24; 4202310; Worcesterová omáčka150ml B12; 348; 10996,8; 25,35; 13,92
+PDL23115524; K00589; BILLA, spol. s r. o.; 14.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 504; 18149,04; 25,35; 16,32
+PDL23115524; K00589; BILLA, spol. s r. o.; 14.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 240; 8642,4; 25,35; 14,3
+PDL23115524; K00589; BILLA, spol. s r. o.; 14.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 885; 25018,95; 25,35; 18
+PDL23115524; K00589; BILLA, spol. s r. o.; 14.02.24; 4201010; Fazole bez cukru 415g B24; 768; 19614,72; 25,35; 24,96
+PDL23115524; K00589; BILLA, spol. s r. o.; 14.02.24; 4202220; Sójová omáčka 150ml B12; 324; 10607,76; 25,35; 13,68
+PDL23115524; K00589; BILLA, spol. s r. o.; 14.02.24; 4202700; BBQ Omáčka TD 220ml B8; 664; 20291,84; 25,35; 8,48
+PDL23115524; K00589; BILLA, spol. s r. o.; 14.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 360; 11001,6; 25,35; 8,56
+PDL23115524; K00589; BILLA, spol. s r. o.; 14.02.24; 4202730; Česneková Omáčka TD 220ml B8; 360; 11001,6; 25,35; 8,56
+PDL23115524; K00589; BILLA, spol. s r. o.; 14.02.24; 4202750; Curry Mango omáčka 220ml B8; 360; 11001,6; 25,35; 9,8
+PDL23115526; K01089; Globus ČR, v.o.s.; 14.02.24; 4203090; Majonéza klasik 480ml B8; 96; 4233,6; 25,35; 11,52
+PDL23115561; K06875; Velká Pecka s.r.o.; 15.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 16; 1008; 25,415; 17,76
+PDL23115561; K06875; Velká Pecka s.r.o.; 15.02.24; 4200020; Rajčatový kečup jemný 342g B10; 10; 310; 25,415; 10,2
+PDL23115561; K06875; Velká Pecka s.r.o.; 15.02.24; 4200030; Rajčatový kečup 450g B15; 30; 1140; 25,415; 16,95
+PDL23115561; K06875; Velká Pecka s.r.o.; 15.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 460; 25,415; 14,3
+PDL23115561; K06875; Velká Pecka s.r.o.; 15.02.24; 4201000; Fazole 415g B24; 48; 1512; 25,415; 21,84
+PDL23115561; K06875; Velká Pecka s.r.o.; 15.02.24; 4201010; Fazole bez cukru 415g B24; 24; 756; 25,415; 24,96
+PDL23115561; K06875; Velká Pecka s.r.o.; 15.02.24; 4202310; Worcesterová omáčka150ml B12; 24; 792; 25,415; 13,92
+PDL23115561; K06875; Velká Pecka s.r.o.; 15.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 25,415; 8,48
+PDL23115561; K06875; Velká Pecka s.r.o.; 15.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 25,415; 9,8
+PDL23115561; K06875; Velká Pecka s.r.o.; 15.02.24; 4206010; Fazole 1kg B6; 12; 828; 25,415; 13,74
+PDL23115568; K07280; Košík.cz s.r.o.; 15.02.24; 4200020; Rajčatový kečup jemný 342g B10; 70; 2040,5; 25,415; 10,2
+PDL23115568; K07280; Košík.cz s.r.o.; 15.02.24; 4200060; Rajčatový kečup ostrý 570g B12; 24; 1116; 25,415; 15,72
+PDL23115568; K07280; Košík.cz s.r.o.; 15.02.24; 4201000; Fazole 415g B24; 672; 18318,72; 25,415; 21,84
+PDL23115568; K07280; Košík.cz s.r.o.; 15.02.24; 4201010; Fazole bez cukru 415g B24; 192; 5233,92; 25,415; 24,96
+PDL23115568; K07280; Košík.cz s.r.o.; 15.02.24; 4201020; Fazole chilli 390g B12; 24; 654,24; 25,415; 12,12
+PDL23115568; K07280; Košík.cz s.r.o.; 15.02.24; 4201050; Fazole BBQ 390g B12; 24; 654,24; 25,415; 12,48
+PDL23115568; K07280; Košík.cz s.r.o.; 15.02.24; 4202310; Worcesterová omáčka150ml B12; 72; 2295,36; 25,415; 13,92
+PDL23115568; K07280; Košík.cz s.r.o.; 15.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 237,36; 25,415; 8,48
+PDL23115568; K07280; Košík.cz s.r.o.; 15.02.24; 4202750; Curry Mango omáčka 220ml B8; 48; 1424,16; 25,415; 9,8
+PDL23115568; K07280; Košík.cz s.r.o.; 15.02.24; 4206010; Fazole 1kg B6; 6; 388,98; 25,415; 13,74
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 56; 3528; 25,415; 17,76
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4200020; Rajčatový kečup jemný 342g B10; 50; 1550; 25,415; 10,2
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4200030; Rajčatový kečup 450g B15; 120; 4560; 25,415; 16,95
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 40; 1840; 25,415; 14,3
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 25,415; 18
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4201000; Fazole 415g B24; 240; 7560; 25,415; 21,84
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4201010; Fazole bez cukru 415g B24; 24; 756; 25,415; 24,96
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 25,415; 12,12
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4201050; Fazole BBQ 390g B12; 24; 804; 25,415; 12,48
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4202140; BBQ Omáčka classic 400ml B10; 20; 926; 25,415; 13,8
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4202220; Sójová omáčka 150ml B12; 24; 792; 25,415; 13,68
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4202310; Worcesterová omáčka150ml B12; 48; 1584; 25,415; 13,92
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4202600; Omáčka hranolky 400ml B10; 20; 926; 25,415; 9,6
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 25,415; 8,48
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,415; 8,56
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 25,415; 9,8
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4202760; Aioli omáčka 220 ml B8; 16; 528; 25,415; 9,8
+PDL23115569; K06875; Velká Pecka s.r.o.; 15.02.24; 4206010; Fazole 1kg B6; 24; 1656; 25,415; 13,74
+PDL23115572; K02302; Kaufland Česká republika v.o.s.; 15.02.24; 4202140; BBQ Omáčka classic 400ml B10; 380; 14788,54; 25,415; 13,8
+PDL23115572; K02302; Kaufland Česká republika v.o.s.; 15.02.24; 4202700; BBQ Omáčka TD 220ml B8; 288; 7244,29; 25,415; 8,48
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 24; 1512; 25,415; 17,76
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4200020; Rajčatový kečup jemný 342g B10; 20; 620; 25,415; 10,2
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4200030; Rajčatový kečup 450g B15; 75; 2850; 25,415; 16,95
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 20; 920; 25,415; 14,3
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 25,415; 18
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4201000; Fazole 415g B24; 216; 6804; 25,415; 21,84
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4201010; Fazole bez cukru 415g B24; 96; 3024; 25,415; 24,96
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 25,415; 12,12
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4201050; Fazole BBQ 390g B12; 60; 2010; 25,415; 12,48
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4202140; BBQ Omáčka classic 400ml B10; 20; 926; 25,415; 13,8
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4202220; Sójová omáčka 150ml B12; 24; 792; 25,415; 13,68
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4202310; Worcesterová omáčka150ml B12; 48; 1584; 25,415; 13,92
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,415; 9,6
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 25,415; 9,6
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4202700; BBQ Omáčka TD 220ml B8; 24; 792; 25,415; 8,48
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,415; 8,56
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4202740; American Burger Omáčka TD 220ml B8; 16; 528; 25,415; 9,8
+PDL23115576; K06875; Velká Pecka s.r.o.; 15.02.24; 4206010; Fazole 1kg B6; 18; 1242; 25,415; 13,74
+PDL23115585; K02302; Kaufland Česká republika v.o.s.; 15.02.24; 4202150; BBQ Omáčka sladká 400ml B10; 380; 14788,54; 25,415; 14
+PDL23115586; K02302; Kaufland Česká republika v.o.s.; 15.02.24; 4200020; Rajčatový kečup jemný 342g B10; 1160; 25324,66; 25,415; 10,2
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 72; 4536; 25,415; 17,76
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4200020; Rajčatový kečup jemný 342g B10; 30; 930; 25,415; 10,2
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4200030; Rajčatový kečup 450g B15; 210; 7980; 25,415; 16,95
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 30; 1380; 25,415; 14,3
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 30; 1140; 25,415; 18
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4201000; Fazole 415g B24; 288; 9072; 25,415; 21,84
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4201010; Fazole bez cukru 415g B24; 24; 756; 25,415; 24,96
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4201020; Fazole chilli 390g B12; 24; 804; 25,415; 12,12
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4201050; Fazole BBQ 390g B12; 36; 1206; 25,415; 12,48
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 25,415; 13,8
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4202310; Worcesterová omáčka150ml B12; 48; 1584; 25,415; 13,92
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,415; 9,6
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4202600; Omáčka hranolky 400ml B10; 20; 926; 25,415; 9,6
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4202700; BBQ Omáčka TD 220ml B8; 16; 528; 25,415; 8,48
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,415; 8,56
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4202740; American Burger Omáčka TD 220ml B8; 24; 792; 25,415; 9,8
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 264; 25,415; 9,8
+PDL23115593; K06875; Velká Pecka s.r.o.; 15.02.24; 4206010; Fazole 1kg B6; 18; 1242; 25,415; 13,74
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 56; 3528; 25,415; 17,76
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4200020; Rajčatový kečup jemný 342g B10; 80; 2480; 25,415; 10,2
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4200030; Rajčatový kečup 450g B15; 90; 3420; 25,415; 16,95
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 70; 3220; 25,415; 14,3
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 570; 25,415; 18
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4201000; Fazole 415g B24; 360; 11340; 25,415; 21,84
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4201010; Fazole bez cukru 415g B24; 48; 1512; 25,415; 24,96
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4201020; Fazole chilli 390g B12; 24; 804; 25,415; 12,12
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4201050; Fazole BBQ 390g B12; 12; 402; 25,415; 12,48
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 25,415; 13,8
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 25,415; 13,68
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4202310; Worcesterová omáčka150ml B12; 84; 2772; 25,415; 13,92
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,415; 9,6
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 25,415; 9,6
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4202700; BBQ Omáčka TD 220ml B8; 24; 792; 25,415; 8,48
+PDL23115594; K06875; Velká Pecka s.r.o.; 15.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,415; 8,56
+PDL23115644; K02821; PENNY MARKET s.r.o.; 16.02.24; 4200030; Rajčatový kečup 450g B15; 2520; 68040; 25,455; 16,95
+PDL23115645; K02821; PENNY MARKET s.r.o.; 16.02.24; 4200030; Rajčatový kečup 450g B15; 2520; 68040; 25,455; 16,95
+PDL23115645; K02821; PENNY MARKET s.r.o.; 16.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 1260; 34020; 25,455; 18
+PDL23115651; K02302; Kaufland Česká republika v.o.s.; 16.02.24; 4202140; BBQ Omáčka classic 400ml B10; 570; 22182,8; 25,455; 13,8
+PDL23115654; K02821; PENNY MARKET s.r.o.; 16.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 34020; 25,455; 16,95
+PDL23115655; K02821; PENNY MARKET s.r.o.; 16.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 1260; 34020; 25,455; 18
+PDL23115657; K00134; Albert Česká republika, s.r.o.; 16.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 640; 37760; 25,455; 17,76
+PDL23115657; K00134; Albert Česká republika, s.r.o.; 16.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 38178; 25,455; 16,95
+PDL23115657; K00134; Albert Česká republika, s.r.o.; 16.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 1020; 38760; 25,455; 14,3
+PDL23115657; K00134; Albert Česká republika, s.r.o.; 16.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 1920; 86400; 25,455; 22,08
+PDL23115657; K00134; Albert Česká republika, s.r.o.; 16.02.24; 4206010; Fazole 1kg B6; 240; 15216; 25,455; 13,74
+PDL23115662; K03543; Tesco Stores ČR a.s.; 16.02.24; 4201000; Fazole 415g B24; 96; 2400; 25,455; 21,84
+PDL23115662; K03543; Tesco Stores ČR a.s.; 16.02.24; 4201010; Fazole bez cukru 415g B24; 24; 600; 25,455; 24,96
+PDL23115662; K03543; Tesco Stores ČR a.s.; 16.02.24; 4201020; Fazole chilli 390g B12; 84; 2100; 25,455; 12,12
+PDL23115662; K03543; Tesco Stores ČR a.s.; 16.02.24; 4202140; BBQ Omáčka classic 400ml B10; 410; 13694; 25,455; 13,8
+PDL23115662; K03543; Tesco Stores ČR a.s.; 16.02.24; 4202220; Sójová omáčka 150ml B12; 60; 1854,6; 25,455; 13,68
+PDL23115662; K03543; Tesco Stores ČR a.s.; 16.02.24; 4202310; Worcesterová omáčka150ml B12; 60; 1854,6; 25,455; 13,92
+PDL23115662; K03543; Tesco Stores ČR a.s.; 16.02.24; 4202510; Omáčka česneková 400ml B10; 480; 16032; 25,455; 9,6
+PDL23115662; K03543; Tesco Stores ČR a.s.; 16.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 264; 7365,6; 25,455; 8,56
+PDL23115664; K03543; Tesco Stores ČR a.s.; 16.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 3840; 166272; 25,455; 22,08
+PDL23115664; K03543; Tesco Stores ČR a.s.; 16.02.24; 4200210; Rajčatový kečup TD (10) 400ml; 3800; 120840; 25,455; 14,3
+PDL23115694; K06875; Velká Pecka s.r.o.; 19.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 16; 1008; 25,46; 17,76
+PDL23115694; K06875; Velká Pecka s.r.o.; 19.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 420; 25,46; 14,3
+PDL23115694; K06875; Velká Pecka s.r.o.; 19.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 465; 25,46; 18
+PDL23115694; K06875; Velká Pecka s.r.o.; 19.02.24; 4201000; Fazole 415g B24; 48; 1512; 25,46; 21,84
+PDL23115694; K06875; Velká Pecka s.r.o.; 19.02.24; 4201010; Fazole bez cukru 415g B24; 48; 1512; 25,46; 24,96
+PDL23115694; K06875; Velká Pecka s.r.o.; 19.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 25,46; 8,48
+PDL23115704; K00589; BILLA, spol. s r. o.; 19.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 1920; 109440; 25,46; 17,76
+PDL23115705; K02821; PENNY MARKET s.r.o.; 19.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 1260; 34020; 25,46; 18
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 24; 1512; 25,46; 17,76
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4200020; Rajčatový kečup jemný 342g B10; 10; 290; 25,46; 10,2
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4200030; Rajčatový kečup 450g B15; 45; 1395; 25,46; 16,95
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 420; 25,46; 14,3
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 465; 25,46; 18
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4201000; Fazole 415g B24; 96; 3024; 25,46; 21,84
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4201010; Fazole bez cukru 415g B24; 48; 1512; 25,46; 24,96
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 25,46; 12,12
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4202140; BBQ Omáčka classic 400ml B10; 20; 926; 25,46; 13,8
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4202310; Worcesterová omáčka150ml B12; 24; 792; 25,46; 13,92
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,46; 9,6
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 25,46; 9,6
+PDL23115707; K06875; Velká Pecka s.r.o.; 19.02.24; 4206010; Fazole 1kg B6; 6; 414; 25,46; 13,74
+PDL23115709; K02821; PENNY MARKET s.r.o.; 19.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 34020; 25,46; 16,95
+PDL23115710; K00134; Albert Česká republika, s.r.o.; 19.02.24; 4200030; Rajčatový kečup 450g B15; 3780; 114534; 25,46; 16,95
+PDL23115710; K00134; Albert Česká republika, s.r.o.; 19.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 210; 6363; 25,46; 18
+PDL23115710; K00134; Albert Česká republika, s.r.o.; 19.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 3040; 136800; 25,46; 22,08
+PDL23115710; K00134; Albert Česká republika, s.r.o.; 19.02.24; 4201020; Fazole chilli 390g B12; 180; 4968; 25,46; 12,12
+PDL23115710; K00134; Albert Česká republika, s.r.o.; 19.02.24; 4201050; Fazole BBQ 390g B12; 1440; 39744; 25,46; 12,48
+PDL23115710; K00134; Albert Česká republika, s.r.o.; 19.02.24; 4202220; Sójová omáčka 150ml B12; 348; 10996,8; 25,46; 13,68
+PDL23115710; K00134; Albert Česká republika, s.r.o.; 19.02.24; 4202520; Omáčka Sweet Chilli 220ml B8; 288; 9331,2; 25,46; 8,72
+PDL23115710; K00134; Albert Česká republika, s.r.o.; 19.02.24; 4202730; Česneková Omáčka TD 220ml B8; 288; 9331,2; 25,46; 8,56
+PDL23115715; K02821; PENNY MARKET s.r.o.; 19.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 1260; 34020; 25,46; 18
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 40; 2520; 25,46; 17,76
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4200020; Rajčatový kečup jemný 342g B10; 30; 870; 25,46; 10,2
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4200030; Rajčatový kečup 450g B15; 60; 1860; 25,46; 16,95
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 50; 2100; 25,46; 14,3
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 30; 930; 25,46; 18
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4201000; Fazole 415g B24; 96; 3024; 25,46; 21,84
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4201010; Fazole bez cukru 415g B24; 24; 756; 25,46; 24,96
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 25,46; 12,12
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 25,46; 13,8
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 25,46; 13,68
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 25,46; 13,92
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 25,46; 8,48
+PDL23115719; K06875; Velká Pecka s.r.o.; 19.02.24; 4206010; Fazole 1kg B6; 6; 414; 25,46; 13,74
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 40; 2520; 25,46; 17,76
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4200020; Rajčatový kečup jemný 342g B10; 20; 580; 25,46; 10,2
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 420; 25,46; 14,3
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4201000; Fazole 415g B24; 72; 2268; 25,46; 21,84
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4201010; Fazole bez cukru 415g B24; 48; 1512; 25,46; 24,96
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 25,46; 12,12
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4201050; Fazole BBQ 390g B12; 12; 402; 25,46; 12,48
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 25,46; 13,8
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 25,46; 13,68
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 25,46; 13,92
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 25,46; 8,48
+PDL23115720; K06875; Velká Pecka s.r.o.; 19.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 25,46; 9,8
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 24; 1512; 25,46; 17,76
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4200020; Rajčatový kečup jemný 342g B10; 20; 580; 25,46; 10,2
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4200030; Rajčatový kečup 450g B15; 60; 1860; 25,46; 16,95
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 420; 25,46; 14,3
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 15; 465; 25,46; 18
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4201000; Fazole 415g B24; 72; 2268; 25,46; 21,84
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4201010; Fazole bez cukru 415g B24; 24; 756; 25,46; 24,96
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 25,46; 12,12
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4201050; Fazole BBQ 390g B12; 12; 402; 25,46; 12,48
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 25,46; 13,8
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 25,46; 13,92
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 25,46; 9,6
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 25,46; 8,48
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 25,46; 9,8
+PDL23115721; K06875; Velká Pecka s.r.o.; 19.02.24; 4206010; Fazole 1kg B6; 6; 414; 25,46; 13,74
+PDL23115778; K03543; Tesco Stores ČR a.s.; 20.02.24; 4201000; Fazole 415g B24; 216; 5400; 25,425; 21,84
+PDL23115778; K03543; Tesco Stores ČR a.s.; 20.02.24; 4201010; Fazole bez cukru 415g B24; 72; 1800; 25,425; 24,96
+PDL23115778; K03543; Tesco Stores ČR a.s.; 20.02.24; 4201020; Fazole chilli 390g B12; 96; 2400; 25,425; 12,12
+PDL23115778; K03543; Tesco Stores ČR a.s.; 20.02.24; 4202140; BBQ Omáčka classic 400ml B10; 110; 3674; 25,425; 13,8
+PDL23115778; K03543; Tesco Stores ČR a.s.; 20.02.24; 4202220; Sójová omáčka 150ml B12; 36; 1112,76; 25,425; 13,68
+PDL23115778; K03543; Tesco Stores ČR a.s.; 20.02.24; 4202310; Worcesterová omáčka150ml B12; 60; 1854,6; 25,425; 13,92
+PDL23115778; K03543; Tesco Stores ČR a.s.; 20.02.24; 4202510; Omáčka česneková 400ml B10; 80; 2672; 25,425; 9,6
+PDL23115778; K03543; Tesco Stores ČR a.s.; 20.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 168; 4687,2; 25,425; 8,56
+PDL23115780; K01089; Globus ČR, v.o.s.; 20.02.24; 4200210; Rajčatový kečup TD (10) 400ml; 570; 21044,4; 25,425; 14,3
+PDL23115780; K01089; Globus ČR, v.o.s.; 20.02.24; 4200210; Rajčatový kečup TD (10) 400ml; -570; 21044,4; 25,425; 14,3
+PDL23115780; K01089; Globus ČR, v.o.s.; 20.02.24; 4202190; Omáčka Burger 400ml B10; 190; 7928,7; 25,425; 11,5
+PDL23115780; K01089; Globus ČR, v.o.s.; 20.02.24; 4202600; Omáčka hranolky 400ml B10; 190; 7928,7; 25,425; 9,6
+PDL23115780; K01089; Globus ČR, v.o.s.; 20.02.24; 4202510; Omáčka česneková 400ml B10; 380; 15857,4; 25,425; 9,6
+PDL23115780; K01089; Globus ČR, v.o.s.; 20.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 210; 7060,2; 25,425; 18
+PDL23115780; K01089; Globus ČR, v.o.s.; 20.02.24; 4202140; BBQ Omáčka classic 400ml B10; 570; 23786,1; 25,425; 13,8
+PDL23115780; K01089; Globus ČR, v.o.s.; 20.02.24; 4202150; BBQ Omáčka sladká 400ml B10; 380; 15857,4; 25,425; 14
+PDL23115780; K01089; Globus ČR, v.o.s.; 20.02.24; 4202160; BBQ Omáčka Chilli 400ml B10; 190; 7928,7; 25,425; 14,9
+PDL23115780; K01089; Globus ČR, v.o.s.; 20.02.24; 4202310; Worcesterová omáčka150ml B12; 348; 10794,96; 25,425; 13,92
+PDL23115785; K07680; Tesco Franchise Stores ČR s.r.o.; 20.02.24; 4200030; Rajčatový kečup 450g B15; 435; 14407,2; 25,425; 16,95
+PDL23115785; K07680; Tesco Franchise Stores ČR s.r.o.; 20.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 435; 14407,2; 25,425; 18
+PDL23115785; K07680; Tesco Franchise Stores ČR s.r.o.; 20.02.24; 4201000; Fazole 415g B24; 192; 4800; 25,425; 21,84
+PDL23115787; K01089; Globus ČR, v.o.s.; 20.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 6400; 409600; 25,425; 17,76
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4200060; Rajčatový kečup ostrý 570g B12; 12; 558; 25,425; 15,72
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 50; 2325; 25,425; 14,3
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4201010; Fazole bez cukru 415g B24; 144; 3925,44; 25,425; 24,96
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4201020; Fazole chilli 390g B12; 180; 4906,8; 25,425; 12,12
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4201050; Fazole BBQ 390g B12; 12; 327,12; 25,425; 12,48
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4202150; BBQ Omáčka sladká 400ml B10; 110; 4956,6; 25,425; 14
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4202160; BBQ Omáčka Chilli 400ml B10; 60; 2703,6; 25,425; 14,9
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4202220; Sójová omáčka 150ml B12; 12; 382,56; 25,425; 13,68
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4202520; Omáčka Sweet Chilli 220ml B8; 56; 1661,52; 25,425; 8,72
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4202600; Omáčka hranolky 400ml B10; 60; 2703,6; 25,425; 9,6
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4202700; BBQ Omáčka TD 220ml B8; 160; 4747,2; 25,425; 8,48
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 64; 1898,88; 25,425; 8,56
+PDL23115789; K07280; Košík.cz s.r.o.; 20.02.24; 4206010; Fazole 1kg B6; 24; 1555,92; 25,425; 13,74
+PDL23115851; K06875; Velká Pecka s.r.o.; 21.02.24; 4202140; BBQ Omáčka classic 400ml B10; 20; 926; 25,38; 13,8
+PDL23115851; K06875; Velká Pecka s.r.o.; 21.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 8; 504; 25,38; 17,76
+PDL23115851; K06875; Velká Pecka s.r.o.; 21.02.24; 4200030; Rajčatový kečup 450g B15; 30; 930; 25,38; 16,95
+PDL23115851; K06875; Velká Pecka s.r.o.; 21.02.24; 4201000; Fazole 415g B24; 48; 1512; 25,38; 21,84
+PDL23115851; K06875; Velká Pecka s.r.o.; 21.02.24; 4201010; Fazole bez cukru 415g B24; 24; 756; 25,38; 24,96
+PDL23115851; K06875; Velká Pecka s.r.o.; 21.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 396; 25,38; 13,92
+PDL23115851; K06875; Velká Pecka s.r.o.; 21.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 25,38; 8,48
+PDL23115851; K06875; Velká Pecka s.r.o.; 21.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 25,38; 9,8
+PDL23115851; K06875; Velká Pecka s.r.o.; 21.02.24; 4206010; Fazole 1kg B6; 6; 414; 25,38; 13,74
+PDL23115866; K00134; Albert Česká republika, s.r.o.; 21.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 1224; 46512; 25,38; 16,32
+PDL23115866; K00134; Albert Česká republika, s.r.o.; 21.02.24; 4201000; Fazole 415g B24; 1440; 39744; 25,38; 21,84
+PDL23115868; K00134; Albert Česká republika, s.r.o.; 21.02.24; 4200030; Rajčatový kečup 450g B15; 2520; 76356; 25,38; 16,95
+PDL23115868; K00134; Albert Česká republika, s.r.o.; 21.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 1260; 38178; 25,38; 18
+PDL23115868; K00134; Albert Česká republika, s.r.o.; 21.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 1920; 86400; 25,38; 22,08
+PDL23115868; K00134; Albert Česká republika, s.r.o.; 21.02.24; 4201000; Fazole 415g B24; 1440; 39744; 25,38; 21,84
+PDL23115868; K00134; Albert Česká republika, s.r.o.; 21.02.24; 4201050; Fazole BBQ 390g B12; 1440; 39744; 25,38; 12,48
+PDL23115868; K00134; Albert Česká republika, s.r.o.; 21.02.24; 4202730; Česneková Omáčka TD 220ml B8; 1440; 46656; 25,38; 8,56
+PDL23115868; K00134; Albert Česká republika, s.r.o.; 21.02.24; 4206010; Fazole 1kg B6; 360; 22824; 25,38; 13,74
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 48; 3024; 25,38; 17,76
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4200020; Rajčatový kečup jemný 342g B10; 20; 580; 25,38; 10,2
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4200030; Rajčatový kečup 450g B15; 90; 2790; 25,38; 16,95
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 20; 840; 25,38; 14,3
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 30; 930; 25,38; 18
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4201000; Fazole 415g B24; 144; 4536; 25,38; 21,84
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4201010; Fazole bez cukru 415g B24; 72; 2268; 25,38; 24,96
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 25,38; 12,12
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4201050; Fazole BBQ 390g B12; 12; 402; 25,38; 12,48
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4202140; BBQ Omáčka classic 400ml B10; 40; 1852; 25,38; 13,8
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 25,38; 13,68
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4202310; Worcesterová omáčka150ml B12; 48; 1584; 25,38; 13,92
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,38; 9,6
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 25,38; 9,6
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4202700; BBQ Omáčka TD 220ml B8; 24; 792; 25,38; 8,48
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4202740; American Burger Omáčka TD 220ml B8; 24; 792; 25,38; 9,8
+PDL23115874; K06875; Velká Pecka s.r.o.; 21.02.24; 4206010; Fazole 1kg B6; 12; 828; 25,38; 13,74
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4203140; Majonéza SG sklo 480ml B8; 96; 4732,8; 25,38; 12
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 80; 5040; 25,38; 17,76
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4200020; Rajčatový kečup jemný 342g B10; 50; 1450; 25,38; 10,2
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4200030; Rajčatový kečup 450g B15; 210; 6510; 25,38; 16,95
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 60; 2520; 25,38; 14,3
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 30; 930; 25,38; 18
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4201000; Fazole 415g B24; 192; 6048; 25,38; 21,84
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4201010; Fazole bez cukru 415g B24; 144; 4536; 25,38; 24,96
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4201020; Fazole chilli 390g B12; 36; 1206; 25,38; 12,12
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4201050; Fazole BBQ 390g B12; 24; 804; 25,38; 12,48
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4202140; BBQ Omáčka classic 400ml B10; 20; 926; 25,38; 13,8
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 25,38; 13,68
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4202310; Worcesterová omáčka150ml B12; 60; 1980; 25,38; 13,92
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,38; 9,6
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 25,38; 9,6
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4202700; BBQ Omáčka TD 220ml B8; 32; 1056; 25,38; 8,48
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,38; 8,56
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4202750; Curry Mango omáčka 220ml B8; 16; 528; 25,38; 9,8
+PDL23115875; K06875; Velká Pecka s.r.o.; 21.02.24; 4206010; Fazole 1kg B6; 12; 828; 25,38; 13,74
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 64; 4032; 25,38; 17,76
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4200020; Rajčatový kečup jemný 342g B10; 70; 2030; 25,38; 10,2
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4200030; Rajčatový kečup 450g B15; 210; 6510; 25,38; 16,95
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 40; 1680; 25,38; 14,3
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 30; 930; 25,38; 18
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4201000; Fazole 415g B24; 240; 7560; 25,38; 21,84
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4201010; Fazole bez cukru 415g B24; 72; 2268; 25,38; 24,96
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4201020; Fazole chilli 390g B12; 24; 804; 25,38; 12,12
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4202140; BBQ Omáčka classic 400ml B10; 20; 926; 25,38; 13,8
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 25,38; 13,68
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4202310; Worcesterová omáčka150ml B12; 48; 1584; 25,38; 13,92
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,38; 9,6
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4202600; Omáčka hranolky 400ml B10; 20; 926; 25,38; 9,6
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4202700; BBQ Omáčka TD 220ml B8; 24; 792; 25,38; 8,48
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,38; 8,56
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 25,38; 9,8
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 264; 25,38; 9,8
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4203140; Majonéza SG sklo 480ml B8; 56; 2760,8; 25,38; 12
+PDL23115876; K06875; Velká Pecka s.r.o.; 21.02.24; 4206010; Fazole 1kg B6; 12; 828; 25,38; 13,74
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4203140; Majonéza SG sklo 480ml B8; 96; 4732,8; 25,38; 12
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 48; 3024; 25,38; 17,76
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4200020; Rajčatový kečup jemný 342g B10; 40; 1160; 25,38; 10,2
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4200030; Rajčatový kečup 450g B15; 105; 3255; 25,38; 16,95
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 40; 1680; 25,38; 14,3
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4201000; Fazole 415g B24; 144; 4536; 25,38; 21,84
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4201010; Fazole bez cukru 415g B24; 48; 1512; 25,38; 24,96
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4201020; Fazole chilli 390g B12; 12; 402; 25,38; 12,12
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4201050; Fazole BBQ 390g B12; 24; 804; 25,38; 12,48
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 25,38; 13,8
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 25,38; 13,68
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4202310; Worcesterová omáčka150ml B12; 48; 1584; 25,38; 13,92
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,38; 9,6
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4202600; Omáčka hranolky 400ml B10; 20; 926; 25,38; 9,6
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4202700; BBQ Omáčka TD 220ml B8; 8; 264; 25,38; 8,48
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,38; 8,56
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4202740; American Burger Omáčka TD 220ml B8; 8; 264; 25,38; 9,8
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4202750; Curry Mango omáčka 220ml B8; 32; 1056; 25,38; 9,8
+PDL23115877; K06875; Velká Pecka s.r.o.; 21.02.24; 4206010; Fazole 1kg B6; 12; 828; 25,38; 13,74
+PDL23115879; K00589; BILLA, spol. s r. o.; 21.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 528; 19013,28; 25,38; 16,32
+PDL23115879; K00589; BILLA, spol. s r. o.; 21.02.24; 4201010; Fazole bez cukru 415g B24; 648; 16549,92; 25,38; 24,96
+PDL23115944; K02302; Kaufland Česká republika v.o.s.; 22.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 4008; 212094,94; 25,32; 17,76
+PDL23115951; K02302; Kaufland Česká republika v.o.s.; 22.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 10808; 571936,66; 25,32; 17,76
+PDL23115954; K00589; BILLA, spol. s r. o.; 22.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 3200; 182400,01; 25,32; 17,76
+PDL23115961; K07280; Košík.cz s.r.o.; 22.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 48; 2232; 25,32; 16,32
+PDL23115961; K07280; Košík.cz s.r.o.; 22.02.24; 4200030; Rajčatový kečup 450g B15; 60; 2087,4; 25,32; 16,95
+PDL23115961; K07280; Košík.cz s.r.o.; 22.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 465; 25,32; 14,3
+PDL23115961; K07280; Košík.cz s.r.o.; 22.02.24; 4201050; Fazole BBQ 390g B12; 48; 1308,48; 25,32; 12,48
+PDL23115961; K07280; Košík.cz s.r.o.; 22.02.24; 4202150; BBQ Omáčka sladká 400ml B10; 40; 1802,4; 25,32; 14
+PDL23115961; K07280; Košík.cz s.r.o.; 22.02.24; 4202220; Sójová omáčka 150ml B12; 12; 382,56; 25,32; 13,68
+PDL23115961; K07280; Košík.cz s.r.o.; 22.02.24; 4202600; Omáčka hranolky 400ml B10; 50; 2253; 25,32; 9,6
+PDL23115961; K07280; Košík.cz s.r.o.; 22.02.24; 4202700; BBQ Omáčka TD 220ml B8; 88; 2610,96; 25,32; 8,48
+PDL23115961; K07280; Košík.cz s.r.o.; 22.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 40; 1186,8; 25,32; 8,56
+PDL23115964; K02302; Kaufland Česká republika v.o.s.; 22.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 3056; 161717,1; 25,32; 17,76
+PDL23115966; K02302; Kaufland Česká republika v.o.s.; 22.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 15176; 803082,05; 25,32; 17,76
+PDL23115976; K00112; ESA s.r.o.; 22.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 72; 3912,9; 25,32; 17,76
+PDL23115976; K00112; ESA s.r.o.; 22.02.24; 4200060; Rajčatový kečup ostrý 570g B12; 12; 386,02; 25,32; 15,72
+PDL23115976; K00112; ESA s.r.o.; 22.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 10; 349,74; 25,32; 14,3
+PDL23115976; K00112; ESA s.r.o.; 22.02.24; 4202310; Worcesterová omáčka150ml B12; 12; 339,86; 25,32; 13,92
+PDL23115977; K00112; ESA s.r.o.; 22.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 232,11; 25,32; 9,8
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 40; 2520; 25,35; 17,76
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4200020; Rajčatový kečup jemný 342g B10; 50; 1450; 25,35; 10,2
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4200030; Rajčatový kečup 450g B15; 420; 13020; 25,35; 16,95
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 80; 3360; 25,35; 14,3
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 45; 1395; 25,35; 18
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4201000; Fazole 415g B24; 144; 4536; 25,35; 21,84
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4201010; Fazole bez cukru 415g B24; 144; 4536; 25,35; 24,96
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4201050; Fazole BBQ 390g B12; 12; 402; 25,35; 12,48
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 25,35; 13,68
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4202310; Worcesterová omáčka150ml B12; 36; 1188; 25,35; 13,92
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,35; 9,6
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4202700; BBQ Omáčka TD 220ml B8; 24; 792; 25,35; 8,48
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,35; 8,56
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4202740; American Burger Omáčka TD 220ml B8; 16; 528; 25,35; 9,8
+PDL23115994; K06875; Velká Pecka s.r.o.; 23.02.24; 4203140; Majonéza SG sklo 480ml B8; 24; 1183,2; 25,35; 12
+PDL23116007; K02302; Kaufland Česká republika v.o.s.; 23.02.24; 4202700; BBQ Omáčka TD 220ml B8; 288; 7244,29; 25,35; 8,48
+PDL23116009; K03543; Tesco Stores ČR a.s.; 23.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 480; 20784; 25,35; 22,08
+PDL23116009; K03543; Tesco Stores ČR a.s.; 23.02.24; 4200210; Rajčatový kečup TD (10) 400ml; 380; 12084; 25,35; 14,3
+PDL23116011; K03543; Tesco Stores ČR a.s.; 23.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 480; 20784; 25,35; 22,08
+PDL23116011; K03543; Tesco Stores ČR a.s.; 23.02.24; 4200210; Rajčatový kečup TD (10) 400ml; 570; 18126; 25,35; 14,3
+PDL23116011; K03543; Tesco Stores ČR a.s.; 23.02.24; 4201050; Fazole BBQ 390g B12; 720; 18000; 25,35; 12,48
+PDL23116014; K02821; PENNY MARKET s.r.o.; 23.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 1260; 34020; 25,35; 18
+PDL23116015; K13521; KlauDa Trade s.r.o.; 22.02.24; 4207200; Heinz - Hrášek 400gm (20); 9600; 91200; 25,32; 7,4
+PDL23116015; K13521; KlauDa Trade s.r.o.; 22.02.24; 4207210; Heinz - Červené fazole 400gm (20); 8000; 76000; 25,32; 7,4
+PDL23116015; K13521; KlauDa Trade s.r.o.; 22.02.24; 4207220; Heinz - Kukuřice 400gm (20); 11180; 1138459,4; 25,32; 7,4
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 640; 37760; 25,35; 17,76
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4200030; Rajčatový kečup 450g B15; 5040; 152712; 25,35; 16,95
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 1530; 58140; 25,35; 14,3
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 840; 25452; 25,35; 18
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 3840; 172800; 25,35; 22,08
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4201000; Fazole 415g B24; 1440; 39744; 25,35; 21,84
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4201010; Fazole bez cukru 415g B24; 1440; 39744; 25,35; 24,96
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4202220; Sójová omáčka 150ml B12; 348; 10996,8; 25,35; 13,68
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4202310; Worcesterová omáčka150ml B12; 348; 10996,8; 25,35; 13,92
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4202520; Omáčka Sweet Chilli 220ml B8; 576; 18662,4; 25,35; 8,72
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4202700; BBQ Omáčka TD 220ml B8; 1152; 37324,8; 25,35; 8,48
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 1728; 55987,2; 25,35; 8,56
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4202730; Česneková Omáčka TD 220ml B8; 576; 18662,4; 25,35; 8,56
+PDL23116022; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4202750; Curry Mango omáčka 220ml B8; 512; 16588,8; 25,35; 9,8
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 72; 4536; 25,35; 17,76
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4200020; Rajčatový kečup jemný 342g B10; 130; 3770; 25,35; 10,2
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 39060; 25,35; 16,95
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 170; 7140; 25,35; 14,3
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 105; 3255; 25,35; 18
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4201000; Fazole 415g B24; 240; 7560; 25,35; 21,84
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4201010; Fazole bez cukru 415g B24; 192; 6048; 25,35; 24,96
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4201020; Fazole chilli 390g B12; 24; 804; 25,35; 12,12
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4201050; Fazole BBQ 390g B12; 12; 402; 25,35; 12,48
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4202140; BBQ Omáčka classic 400ml B10; 10; 463; 25,35; 13,8
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 25,35; 13,68
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4202310; Worcesterová omáčka150ml B12; 84; 2772; 25,35; 13,92
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,35; 9,6
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4202600; Omáčka hranolky 400ml B10; 10; 463; 25,35; 9,6
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4202700; BBQ Omáčka TD 220ml B8; 48; 1584; 25,35; 8,48
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,35; 8,56
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4202740; American Burger Omáčka TD 220ml B8; 40; 1320; 25,35; 9,8
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4202750; Curry Mango omáčka 220ml B8; 16; 528; 25,35; 9,8
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4203140; Majonéza SG sklo 480ml B8; 96; 4732,8; 25,35; 12
+PDL23116023; K06875; Velká Pecka s.r.o.; 23.02.24; 4206010; Fazole 1kg B6; 24; 1656; 25,35; 13,74
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 128; 8064; 25,35; 17,76
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4200020; Rajčatový kečup jemný 342g B10; 180; 5220; 25,35; 10,2
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4200030; Rajčatový kečup 450g B15; 840; 26040; 25,35; 16,95
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 230; 9660; 25,35; 14,3
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 120; 3720; 25,35; 18
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4201000; Fazole 415g B24; 288; 9072; 25,35; 21,84
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4201010; Fazole bez cukru 415g B24; 144; 4536; 25,35; 24,96
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4201020; Fazole chilli 390g B12; 48; 1608; 25,35; 12,12
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4201050; Fazole BBQ 390g B12; 60; 2010; 25,35; 12,48
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4202140; BBQ Omáčka classic 400ml B10; 30; 1389; 25,35; 13,8
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4202220; Sójová omáčka 150ml B12; 24; 792; 25,35; 13,68
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4202310; Worcesterová omáčka150ml B12; 84; 2772; 25,35; 13,92
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,35; 9,6
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4202600; Omáčka hranolky 400ml B10; 20; 926; 25,35; 9,6
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4202700; BBQ Omáčka TD 220ml B8; 48; 1584; 25,35; 8,48
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 8; 264; 25,35; 8,56
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4202740; American Burger Omáčka TD 220ml B8; 40; 1320; 25,35; 9,8
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 264; 25,35; 9,8
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4203140; Majonéza SG sklo 480ml B8; 56; 2760,8; 25,35; 12
+PDL23116024; K06875; Velká Pecka s.r.o.; 23.02.24; 4206010; Fazole 1kg B6; 24; 1656; 25,35; 13,74
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 152; 9576; 25,35; 17,76
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4200020; Rajčatový kečup jemný 342g B10; 190; 5510; 25,35; 10,2
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 39060; 25,35; 16,95
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 340; 14280; 25,35; 14,3
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 135; 4185; 25,35; 18
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4201000; Fazole 415g B24; 360; 11340; 25,35; 21,84
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4201010; Fazole bez cukru 415g B24; 192; 6048; 25,35; 24,96
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4201020; Fazole chilli 390g B12; 60; 2010; 25,35; 12,12
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4201050; Fazole BBQ 390g B12; 12; 402; 25,35; 12,48
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4202140; BBQ Omáčka classic 400ml B10; 40; 1852; 25,35; 13,8
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4202220; Sójová omáčka 150ml B12; 48; 1584; 25,35; 13,68
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4202310; Worcesterová omáčka150ml B12; 96; 3168; 25,35; 13,92
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4202510; Omáčka česneková 400ml B10; 20; 926; 25,35; 9,6
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4202600; Omáčka hranolky 400ml B10; 20; 926; 25,35; 9,6
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4202700; BBQ Omáčka TD 220ml B8; 64; 2112; 25,35; 8,48
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4202750; Curry Mango omáčka 220ml B8; 16; 528; 25,35; 9,8
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4203140; Majonéza SG sklo 480ml B8; 96; 4732,8; 25,35; 12
+PDL23116025; K06875; Velká Pecka s.r.o.; 23.02.24; 4206010; Fazole 1kg B6; 30; 2070; 25,35; 13,74
+PDL23116029; K03543; Tesco Stores ČR a.s.; 23.02.24; 4201000; Fazole 415g B24; 240; 6000; 25,35; 21,84
+PDL23116029; K03543; Tesco Stores ČR a.s.; 23.02.24; 4201010; Fazole bez cukru 415g B24; 96; 2400; 25,35; 24,96
+PDL23116029; K03543; Tesco Stores ČR a.s.; 23.02.24; 4201020; Fazole chilli 390g B12; 156; 3900; 25,35; 12,12
+PDL23116029; K03543; Tesco Stores ČR a.s.; 23.02.24; 4202140; BBQ Omáčka classic 400ml B10; 720; 24048; 25,35; 13,8
+PDL23116029; K03543; Tesco Stores ČR a.s.; 23.02.24; 4202220; Sójová omáčka 150ml B12; 204; 6305,64; 25,35; 13,68
+PDL23116029; K03543; Tesco Stores ČR a.s.; 23.02.24; 4202310; Worcesterová omáčka150ml B12; 336; 10385,76; 25,35; 13,92
+PDL23116029; K03543; Tesco Stores ČR a.s.; 23.02.24; 4202510; Omáčka česneková 400ml B10; 1030; 34402; 25,35; 9,6
+PDL23116029; K03543; Tesco Stores ČR a.s.; 23.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 496; 13838,4; 25,35; 8,56
+PDL23116030; K00134; Albert Česká republika, s.r.o.; 23.02.24; 4201000; Fazole 415g B24; 1440; 39744; 25,35; 21,84
+PDL23116032; K02302; Kaufland Česká republika v.o.s.; 23.02.24; 4202150; BBQ Omáčka sladká 400ml B10; 570; 22182,8; 25,35; 14
+PDL23116037; K03543; Tesco Stores ČR a.s.; 23.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 1224; 45288; 25,35; 16,32
+PDL23116037; K03543; Tesco Stores ČR a.s.; 23.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 320; 13856; 25,35; 22,08
+PDL23116037; K03543; Tesco Stores ČR a.s.; 23.02.24; 4200210; Rajčatový kečup TD (10) 400ml; 380; 12084; 25,35; 14,3
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 88; 5544; 25,35; 17,76
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4200020; Rajčatový kečup jemný 342g B10; 160; 4640; 25,35; 10,2
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4200030; Rajčatový kečup 450g B15; 1260; 39060; 25,35; 16,95
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 210; 8820; 25,35; 14,3
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4200150; Rajčatový kečup ostrý 455g B15; 105; 3255; 25,35; 18
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4201000; Fazole 415g B24; 360; 11340; 25,35; 21,84
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4201010; Fazole bez cukru 415g B24; 120; 3780; 25,35; 24,96
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4201020; Fazole chilli 390g B12; 48; 1608; 25,35; 12,12
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4201050; Fazole BBQ 390g B12; 36; 1206; 25,35; 12,48
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4202140; BBQ Omáčka classic 400ml B10; 40; 1852; 25,35; 13,8
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4202220; Sójová omáčka 150ml B12; 12; 396; 25,35; 13,68
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4202310; Worcesterová omáčka150ml B12; 84; 2772; 25,35; 13,92
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4202510; Omáčka česneková 400ml B10; 10; 463; 25,35; 9,6
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4202700; BBQ Omáčka TD 220ml B8; 24; 792; 25,35; 8,48
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4202720; 3 druhy pepře omáčka 220 ml B8; 16; 528; 25,35; 8,56
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4202740; American Burger Omáčka TD 220ml B8; 40; 1320; 25,35; 9,8
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4202750; Curry Mango omáčka 220ml B8; 16; 528; 25,35; 9,8
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4203140; Majonéza SG sklo 480ml B8; 24; 1183,2; 25,35; 12
+PDL23116038; K06875; Velká Pecka s.r.o.; 23.02.24; 4206010; Fazole 1kg B6; 24; 1656; 25,35; 13,74
+PDL23116040; K07280; Košík.cz s.r.o.; 23.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 192; 14561,28; 25,35; 17,76
+PDL23116040; K07280; Košík.cz s.r.o.; 23.02.24; 4200010; Rajčatový kečup jemný570g(500ml)B12; 132; 6138; 25,35; 16,32
+PDL23116040; K07280; Košík.cz s.r.o.; 23.02.24; 4200020; Rajčatový kečup jemný 342g B10; 550; 16032,5; 25,35; 10,2
+PDL23116040; K07280; Košík.cz s.r.o.; 23.02.24; 4200030; Rajčatový kečup 450g B15; 585; 20352,15; 25,35; 16,95
+PDL23116040; K07280; Košík.cz s.r.o.; 23.02.24; 4200060; Rajčatový kečup ostrý 570g B12; 144; 6696; 25,35; 15,72
+PDL23116040; K07280; Košík.cz s.r.o.; 23.02.24; 4200070; Rajč. kečup 50% CS 550g(500ml)B10; 160; 7440; 25,35; 14,3
+PDL23116040; K07280; Košík.cz s.r.o.; 23.02.24; 4202220; Sójová omáčka 150ml B12; 84; 2677,92; 25,35; 13,68
+PDL23116040; K07280; Košík.cz s.r.o.; 23.02.24; 4203100; Majonéza klasik 710ml B6; 396; 16552,8; 25,35; 0
+PDL23116049; K01089; Globus ČR, v.o.s.; 23.02.24; 4200170; Rajčatový kečup jemný700g(605ml)B10; 160; 8480; 25,35; 22,08
+PDL23116049; K01089; Globus ČR, v.o.s.; 23.02.24; 4200000; Rajčatový kečup jemný 1kg(875ml) B8; 640; 40960; 25,35; 17,76
+PDL23116055; K00112; ESA s.r.o.; 23.02.24; 4200030; Rajčatový kečup 450g B15; -15; -412,9; 25,35; 16,95
+PDL23116055; K00112; ESA s.r.o.; 23.02.24; 4201000; Fazole 415g B24; 24; 500,86; 25,35; 21,84
+PDL23116055; K00112; ESA s.r.o.; 23.02.24; 4202220; Sójová omáčka 150ml B12; 12; 395,16; 25,35; 13,68
+PDL23116055; K00112; ESA s.r.o.; 23.02.24; 4202310; Worcesterová omáčka150ml B12; -24; -679,71; 25,35; 13,92
+PDL23116055; K00112; ESA s.r.o.; 23.02.24; 4202700; BBQ Omáčka TD 220ml B8; -8; -207,6; 25,35; 8,48
+PDL23116055; K00112; ESA s.r.o.; 23.02.24; 4202750; Curry Mango omáčka 220ml B8; 8; 232,11; 25,35; 9,8
+PDL23116055; K00112; ESA s.r.o.; 23.02.24; 4206010; Fazole 1kg B6; 12; 676,09; 25,35; 13,74
